@@ -6,7 +6,7 @@ sections:
     align: center
     image: /images/ufo.png
     image_position: right
-    has_background: true
+    has_background: false
   - type: contact_section
 template: advanced
 ---
